@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jiahian
-- 👀 I’m interested in building website and designing it
+- 👀 I’m interested in building and designin applications.
 - 🌱 I’m currently learning REACT.js, API and how to cook delicious meals at home.
 
 - 📫 How to reach me jiahian@hotmail.com
